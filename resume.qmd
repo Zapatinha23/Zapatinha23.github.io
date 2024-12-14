@@ -1,86 +1,101 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Spencer Zapata Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+# Spencer Zapata
+Data Scientist, Business Analyst.
 
 ## Currently
 
-Standing on the shoulders of giants
+Student at BYUI and Data specialist at Ecolab.
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data Science, Business Intel, Coumputer Science
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+Brigham Young University- Idaho. 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`January 2021 - now`
+__Brigham Young Univeristy, Rexburg__
 
-- Sizar
+- Student
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Skills
 
-- Fellow
+Technical Skills.
+•	Proficient in Microsoft Office Suite (Excel, Word, Outlook, PowerPoint).
+•	Proficient in data visualization tools (Tableau, Power BI).
+•	Skilled in programming languages (SQL, R, Python).
+•	Skilled in Sap and WMS Systems
+Soft Skills.
+•	Strong communication skills, both verbal and written.
+•	Exceptional problem-solving abilities and critical thinking.
+•	Effective time management and organizational skills.
+•	Strong teamwork and collaboration in cross-functional settings.
+•	Adaptability and resilience in fast-paced environments.
+•	Fluent in Spanish, Portuguese, and English.
 
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+Data Specialist	April 2024 - Present
+Ecolab	Naperville, IL
+•	Utilized SAP and SQL to log and retrieve sample data efficiently, ensuring accurate data entry and retrieval. Assisted in data collection and performed analyses to support experimental findings and decision-making.
+•	Conducted various laboratory experiments with precision, adhering to established protocols. Demonstrated proficiency in handling and using chemicals safely, maintaining a high standard of safety and compliance.
+•	Applied meticulous attention to detail in proofreading data to uphold data integrity. Ensured accuracy and reliability in data reporting and documentation.
+•	Leveraged technical skills to support data analysis and interpretation, contributing to development of comprehensive reports and insights.
+ 
+University Ambassador	September 2019 - July 2022
+Brigham Young University	Rexburg, Idaho
+•	Volunteer.
+•	Guided and mentored groups of 40 incoming students, facilitating orientation to university facilities, resources, and faculty members.
+•	Organized campus tours and informational sessions to familiarize students with key locations and academic departments, ensuring a seamless integration into university life.
+•	Addressed student concerns and enhanced overall university experience, contributing to a positive and welcoming campus environment for all.
+•	Planned social activities and events to promote student engagement.
+ 
+Logistic Analyst	August 2021 - December 2021
+LG Electronics	Lockport, IL
+•	Utilized SQL to manage and track shipping and inventory processes, ensuring accurate and up-to-date data for efficient logistics management.
+•	Leveraged advanced Excel functions to clean and wrangle data, extracting meaningful insights to inform decision-making and generate comprehensive reports for company use.
+•	Calculated price reduction lead times, enabling proactive cost-saving measures and increasing overall supply chain efficiency by 15 %.
+•	Designed and implemented processes to boost operational efficiencies by executing statistical analysis using R, testing various methods to improve workflows, optimize resource allocation, and ultimately increase productivity.
+ 
+Printing Supervisor	September 2020 - December 2020
+Occasions Group	Rexburg, ID
+•	Provided training sessions for 6 employees on operation, maintenance, and troubleshooting of company equipment.
+•	Conducted thorough quality inspections of Christmas cards printed using printers, identifying, and rectifying errors promptly. Team errors went down 10%.
+•	Trained employees on proper printer operation techniques, ensuring consistent print quality and adherence to production standards. employee productivity went up 25%.
+•	Monitored and evaluated employee performance in relation to company goals, providing constructive feedback and support to promote quality work.
+•	Utilized advanced Excel functions to forecast material demand, enabling accurate inventory management and streamlined production processes.
+ 
+Inventory Control Lead	April 2020 - September 2020
+LG Electronics	Lockport, IL
+•	Utilized Excel macros to streamline inventory tracking processes, enhancing efficiency and accuracy. Implemented robust inventory tracking mechanisms resulting in a notable improvement, achieving inventory accuracy levels of 97%.
+•	Conducted daily cycle counts to maintain inventory accuracy, identifying discrepancies and implementing corrective measures to improve data precision.
+•	Optimized operations by maintaining warehouse management systems (WMS), enhancing efficiency in demand forecasting and inventory management, resulting in improved overall operational performance by 15 %.
+ 
+Shipping Coordinator	August 2018 - December 2019
+LG Electronics	Lockport, IL
+•	Directed comprehensive training sessions to familiarize team members with company software, specifically the WMS system, resulting in a notable 12% increase in operational speed.
+•	Audited team members' work and troubleshooted any errors, reducing shipping errors by 20% before product was dispatched.
+•	Organized load times to ensure orders were processed and audited at least 30 minutes before scheduled shipment, resulting in zero delays and seamless fulfillment of all orders.
+ 
+Machine Operator	September 2023 - April 2024
+RR Donnelly	St. Charles, Illinois
+•	Operated and managed machinery to ensure smooth and efficient production processes.
+•	Regularly cleaned and inspected equipment to prevent breakdowns and assure safety standards.
+•	Met or exceeded daily and weekly production quotas, maintaining high levels of accuracy and quality.
+•	Troubleshot minor mechanical issues, minimizing downtime and maximizing productivity.
+•	Collaborated with team members to improve workflow and assure timely completion of production goals.
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
