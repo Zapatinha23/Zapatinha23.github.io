@@ -1,0 +1,44 @@
+{
+  "resume.qmd": {
+    "resume.html": "6fda335f"
+  },
+  "cleansing.qmd": {
+    "cleansing.html": "994089ea"
+  },
+  "competition.qmd": {
+    "competition.html": "61c994c0"
+  },
+  "exploration.qmd": {
+    "exploration.html": "fa209374"
+  },
+  "full_stack.qmd": {
+    "full_stack.html": "81a9d16d"
+  },
+  "index.qmd": {
+    "index.html": "d1430198"
+  },
+  "ml.qmd": {
+    "ml.html": "1efb07d6"
+  },
+  "Projects/project1.qmd": {
+    "project1.html": "2d2461d1"
+  },
+  "Projects/project2.qmd": {
+    "project2.html": "2135abb6"
+  },
+  "Projects/project3.qmd": {
+    "project3.html": "53166687"
+  },
+  "Projects/project4.qmd": {
+    "project4.html": "b8dc6da4"
+  },
+  "Projects/project5.qmd": {
+    "project5.html": "a21c6785"
+  },
+  "projects.qmd": {
+    "projects.html": "eb49f8a9"
+  },
+  "story_telling.qmd": {
+    "story_telling.html": "10f5b28c"
+  }
+}
