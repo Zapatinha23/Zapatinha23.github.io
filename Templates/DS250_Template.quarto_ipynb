@@ -38,7 +38,7 @@
         "\n",
         "<!-- \n"
       ],
-      "id": "99f5a6f2"
+      "id": "eaa3bf3b"
     },
     {
       "cell_type": "code",
@@ -63,7 +63,7 @@
         "_paste your elevator pitch here_\n",
         "_A SHORT (4-5 SENTENCES) PARAGRAPH THAT `DESCRIBES KEY INSIGHTS` TAKEN FROM METRICS IN THE PROJECT RESULTS THINK TOP OR MOST IMPORTANT RESULTS._\n"
       ],
-      "id": "734f8667"
+      "id": "402ed825"
     },
     {
       "cell_type": "code",
@@ -90,7 +90,7 @@
         "\n",
         "_type your results and analysis here_\n"
       ],
-      "id": "b4226136"
+      "id": "ad77e0d0"
     },
     {
       "cell_type": "code",
@@ -110,7 +110,7 @@
       "source": [
         "_include figures in chunks and discuss your findings in the figure._\n"
       ],
-      "id": "de44db52"
+      "id": "f9a73062"
     },
     {
       "cell_type": "code",
@@ -163,7 +163,7 @@
         "\n",
         "_type your results and analysis here_\n"
       ],
-      "id": "bae5b6cd"
+      "id": "c8ee7797"
     },
     {
       "cell_type": "code",
@@ -183,7 +183,7 @@
       "source": [
         "_include figures in chunks and discuss your findings in the figure._\n"
       ],
-      "id": "1ddf33c9"
+      "id": "5e1b2d07"
     },
     {
       "cell_type": "code",
@@ -236,7 +236,7 @@
         "\n",
         "_type your results and analysis here_\n"
       ],
-      "id": "c8f2a213"
+      "id": "1922e8c5"
     },
     {
       "cell_type": "code",
@@ -256,7 +256,7 @@
       "source": [
         "_include figures in chunks and discuss your findings in the figure._\n"
       ],
-      "id": "66fb75a4"
+      "id": "87cf337e"
     },
     {
       "cell_type": "code",
@@ -297,7 +297,7 @@
         "\n",
         "``` -->"
       ],
-      "id": "5c00f7b2"
+      "id": "bcdf1cc0"
     }
   ],
   "metadata": {

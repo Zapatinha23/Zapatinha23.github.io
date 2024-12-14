@@ -1,100 +1,92 @@
 ---
-layout: cv
-title: Spencer Zapata Resume
+title: "Spencer Zapata"
+subtitle: "Business Analyst | Data Specialist"
+format: html
+toc: false
 ---
-# Spencer Zapata
-Data Scientist, Business Analyst.
 
-## Currently
+# Contact Information
+- **Phone:** +1 (630) 991-1262
+- **Email:** [zapataspencer@gmail.com](mailto:zapataspencer@gmail.com)
 
-Student at BYUI and Data specialist at Ecolab.
+# Education
+## Business Analytics  
+**Brigham Young University - Idaho**  
+*Rexburg, Idaho*  
+**January 2018 – current**  
+- Major in Business Analytics.
 
+# Work Experience
 
+## Data Administrative Specialist  
+**Ecolab**  
+*Naperville, IL*  
+**April 2024 – Present**  
+- Utilized SAP and SQL for efficient data entry and retrieval.  
+- Assisted in data collection and performed analyses to support experimental findings.  
+- Conducted precise laboratory experiments while adhering to safety protocols.  
+- Proofread data to uphold integrity and ensured accurate reporting.  
+- Contributed to developing comprehensive data analysis reports.  
 
-### Research interests
+## University Ambassador  
+**Brigham Young University**  
+*Rexburg, Idaho*  
+**September 2019 – July 2022**  
+- Guided and mentored groups of 40 incoming students, aiding their university orientation.  
+- Organized campus tours and informational sessions.  
+- Enhanced the student experience through engagement activities.  
 
-Data Science, Business Intel, Coumputer Science
+## Logistic Analyst  
+**LG Electronics**  
+*Lockport, IL*  
+**August 2021 – December 2021**  
+- Used SQL to manage shipping and inventory processes.  
+- Leveraged Excel for data cleaning and reporting.  
+- Optimized workflows with statistical analysis in R, increasing efficiency by 15%.  
 
+## Printing Supervisor  
+**Occasions Group**  
+*Rexburg, ID*  
+**September 2020 – December 2020**  
+- Conducted training for six employees on equipment operations.  
+- Reduced team errors by 10% through quality inspections.  
+- Improved employee productivity by 25% with focused training sessions.  
 
-## Education
+## Inventory Control Lead  
+**LG Electronics**  
+*Lockport, IL*  
+**April 2020 – September 2020**  
+- Improved inventory accuracy to 97% using Excel macros.  
+- Conducted cycle counts to maintain precise inventory records.  
+- Enhanced overall operations by 15% through WMS optimization.  
 
-Brigham Young University- Idaho. 
+## Shipping Coordinator  
+**LG Electronics**  
+*Lockport, IL*  
+**August 2018 – December 2019**  
+- Directed training sessions on WMS systems, boosting operational speed by 12%.  
+- Reduced shipping errors by 20% through audits and troubleshooting.  
 
-`January 2021 - now`
-__Brigham Young Univeristy, Rexburg__
+## Machine Operator  
+**RR Donnelly**  
+*St. Charles, Illinois*  
+**September 2023 – April 2024**  
+- Operated and maintained machinery, ensuring high-quality production.  
+- Minimized downtime by troubleshooting mechanical issues promptly.  
 
-- Student
+# Skills & Abilities
+## Technical Skills
+- Proficient in Microsoft Office Suite (Excel, Word, Outlook, PowerPoint).  
+- Experienced with Tableau and Power BI for data visualization.  
+- Skilled in SQL, R, Python, SAP, and WMS systems.
 
-### Skills
+## Soft Skills
+- Strong verbal and written communication.  
+- Problem-solving and critical thinking.  
+- Effective time management and teamwork.  
+- Adaptable and resilient in dynamic environments.  
+- Fluent in Spanish, Portuguese, and English.
 
-Technical Skills.
-•	Proficient in Microsoft Office Suite (Excel, Word, Outlook, PowerPoint).
-•	Proficient in data visualization tools (Tableau, Power BI).
-•	Skilled in programming languages (SQL, R, Python).
-•	Skilled in Sap and WMS Systems
-Soft Skills.
-•	Strong communication skills, both verbal and written.
-•	Exceptional problem-solving abilities and critical thinking.
-•	Effective time management and organizational skills.
-•	Strong teamwork and collaboration in cross-functional settings.
-•	Adaptability and resilience in fast-paced environments.
-•	Fluent in Spanish, Portuguese, and English.
-
-
-
-
-
-## Occupation
-
-Data Specialist	April 2024 - Present
-Ecolab	Naperville, IL
-•	Utilized SAP and SQL to log and retrieve sample data efficiently, ensuring accurate data entry and retrieval. Assisted in data collection and performed analyses to support experimental findings and decision-making.
-•	Conducted various laboratory experiments with precision, adhering to established protocols. Demonstrated proficiency in handling and using chemicals safely, maintaining a high standard of safety and compliance.
-•	Applied meticulous attention to detail in proofreading data to uphold data integrity. Ensured accuracy and reliability in data reporting and documentation.
-•	Leveraged technical skills to support data analysis and interpretation, contributing to development of comprehensive reports and insights.
- 
-University Ambassador	September 2019 - July 2022
-Brigham Young University	Rexburg, Idaho
-•	Volunteer.
-•	Guided and mentored groups of 40 incoming students, facilitating orientation to university facilities, resources, and faculty members.
-•	Organized campus tours and informational sessions to familiarize students with key locations and academic departments, ensuring a seamless integration into university life.
-•	Addressed student concerns and enhanced overall university experience, contributing to a positive and welcoming campus environment for all.
-•	Planned social activities and events to promote student engagement.
- 
-Logistic Analyst	August 2021 - December 2021
-LG Electronics	Lockport, IL
-•	Utilized SQL to manage and track shipping and inventory processes, ensuring accurate and up-to-date data for efficient logistics management.
-•	Leveraged advanced Excel functions to clean and wrangle data, extracting meaningful insights to inform decision-making and generate comprehensive reports for company use.
-•	Calculated price reduction lead times, enabling proactive cost-saving measures and increasing overall supply chain efficiency by 15 %.
-•	Designed and implemented processes to boost operational efficiencies by executing statistical analysis using R, testing various methods to improve workflows, optimize resource allocation, and ultimately increase productivity.
- 
-Printing Supervisor	September 2020 - December 2020
-Occasions Group	Rexburg, ID
-•	Provided training sessions for 6 employees on operation, maintenance, and troubleshooting of company equipment.
-•	Conducted thorough quality inspections of Christmas cards printed using printers, identifying, and rectifying errors promptly. Team errors went down 10%.
-•	Trained employees on proper printer operation techniques, ensuring consistent print quality and adherence to production standards. employee productivity went up 25%.
-•	Monitored and evaluated employee performance in relation to company goals, providing constructive feedback and support to promote quality work.
-•	Utilized advanced Excel functions to forecast material demand, enabling accurate inventory management and streamlined production processes.
- 
-Inventory Control Lead	April 2020 - September 2020
-LG Electronics	Lockport, IL
-•	Utilized Excel macros to streamline inventory tracking processes, enhancing efficiency and accuracy. Implemented robust inventory tracking mechanisms resulting in a notable improvement, achieving inventory accuracy levels of 97%.
-•	Conducted daily cycle counts to maintain inventory accuracy, identifying discrepancies and implementing corrective measures to improve data precision.
-•	Optimized operations by maintaining warehouse management systems (WMS), enhancing efficiency in demand forecasting and inventory management, resulting in improved overall operational performance by 15 %.
- 
-Shipping Coordinator	August 2018 - December 2019
-LG Electronics	Lockport, IL
-•	Directed comprehensive training sessions to familiarize team members with company software, specifically the WMS system, resulting in a notable 12% increase in operational speed.
-•	Audited team members' work and troubleshooted any errors, reducing shipping errors by 20% before product was dispatched.
-•	Organized load times to ensure orders were processed and audited at least 30 minutes before scheduled shipment, resulting in zero delays and seamless fulfillment of all orders.
- 
-Machine Operator	September 2023 - April 2024
-RR Donnelly	St. Charles, Illinois
-•	Operated and managed machinery to ensure smooth and efficient production processes.
-•	Regularly cleaned and inspected equipment to prevent breakdowns and assure safety standards.
-•	Met or exceeded daily and weekly production quotas, maintaining high levels of accuracy and quality.
-•	Troubleshot minor mechanical issues, minimizing downtime and maximizing productivity.
-•	Collaborated with team members to improve workflow and assure timely completion of production goals.
 
 
 
